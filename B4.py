@@ -43,8 +43,4 @@ while opcion_de_menu != 0:
 f2.guardar_datos(nombre, edad, estatura, sexo, pais, num_amigos)
 
 print("Gracias por usar Break, vuelve pronto!!!")
-print("commit 2")
-print("commit 3")
-x = 7
-a = 7
-print(a**x)
+
